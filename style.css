@@ -5,19 +5,19 @@
    width:800px;
    margin:5em auto;
    position: fixed;
-  top: -15px;
+   top: -15px;
    left: 25%;
    display:flex;
    visibility:hidden;
 }
 #card h2 {
-   font-size:3em;
+   font-size:1.8em;
    margin:0;
    color:pink;
    text-align: center;
 }
 #card p {
-   font-size: 1.5em;
+   font-size: 1.3em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
    padding-right: 30px; /* Espacio en blanco a la derecha */
