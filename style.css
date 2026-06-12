@@ -5,20 +5,19 @@
    width:800px;
    margin:5em auto;
    position: fixed;
-   top: -15px;
-   left: 50%;
-   transform: translateX(-50%);
+  top: -15px;
+   left: 25%;
    display:flex;
    visibility:hidden;
 }
 #card h2 {
-   font-size: 1.8em;
+   font-size:3em;
    margin:0;
    color:pink;
    text-align: center;
 }
 #card p {
-   font-size: 1.3em;
+   font-size: 1.5em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
    padding-right: 30px; /* Espacio en blanco a la derecha */
@@ -169,10 +168,3 @@ body {
  .valentines-day:hover .text {
    transform: translateY(-50px);
  }
-
- 
- 
-
-
-
- 
