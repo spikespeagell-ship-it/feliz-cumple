@@ -170,25 +170,6 @@ body {
    transform: translateY(-50px);
  }
 
- @media (max-width: 768px) {
-  #card {
-    width: 05vh;
-    height: auto;
-    flex-direction: column;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 20px;
-  }
-
-  .side {
-    width: 100%;
-    height: auto;
-  }
-
-  .side.one, .side.two {
-    transform: none;
-  }
- }
  
  
 
